@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './fishtank.jpg';
 import './App.css';
 
 function App() {
@@ -25,17 +25,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Test call: "err"
         </p>
         <button onClick={fruit}>Fruit</button>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
       </header>
     </div>
   );
