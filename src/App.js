@@ -25,7 +25,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Test call: "err"
+          Hello Angel
         </p>
         <button onClick={fruit}>Fruit</button>
       </header>
